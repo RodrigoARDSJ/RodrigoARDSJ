@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello I'm Rodrigo Alexandre 👋
+Student of analysis and system development at FIAP :computer:
 <!--
 **RodrigoARDSJ/RodrigoARDSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
