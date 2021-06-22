@@ -2,6 +2,7 @@
 - Student of analysis and system development at FIAP :computer:
 - Seeking new skills and knowledge :notebook:
 - I like read books, comic book and manga :books:
+- Java lover :coffee:
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/rodrigo-alexander/" target="_blank"> 
