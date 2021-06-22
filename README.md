@@ -4,8 +4,8 @@
 - I like read books, comic book and manga :books:
 
 ### Connect with me:
-<a href="www.linkedin.com/in/rodrigo-alexander" target="_blank"> 
-<img align="center" alt="Rodrigo-Linkedin" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+<a href="www.linkedin.com/in/rodrigo-alexander/" target="_blank"> 
+<img align="center" alt="Rodrigo-Linkedin" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></img>
 </a>
 
 ### My Skills:
