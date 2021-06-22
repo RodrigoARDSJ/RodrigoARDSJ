@@ -1,5 +1,7 @@
 ### Hello I'm Rodrigo Alexandre 👋
-Student of analysis and system development at FIAP :computer:
+- Student of analysis and system development at FIAP :computer:
+- Seeking new skills and knowledge :notebook:
+- I like read books, comic book and manga :books:
 <!--
 **RodrigoARDSJ/RodrigoARDSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
