@@ -17,6 +17,7 @@
 <img alt="Bootstrap" height="55" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"></img>
 <img alt="JavaScript" height="55" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
 <img alt="Oracle" height="55" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"></img>
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoARDSJ&show_icons=true&theme=radical)
 
