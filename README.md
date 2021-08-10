@@ -3,11 +3,13 @@
 - Seeking new skills and knowledge :notebook:
 - I like read books, comic book and manga :books:
 - Java lover :coffee:
+- ##
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/rodrigo-alexander/" target="_blank"> 
 <img align="center" alt="Rodrigo-Linkedin" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></img>
 </a>
+##
 
 ### My Skills:
 <img alt="Java" height="55" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" ></img>
