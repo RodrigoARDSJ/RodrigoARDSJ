@@ -18,7 +18,10 @@
 <img alt="JavaScript" height="55" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
 <img alt="Oracle" height="55" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoARDSJ&layoutlangs_count=8&theme=dark)](https://github.com/RodrigoARDSJ/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoARDSJ&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoARDSJ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
